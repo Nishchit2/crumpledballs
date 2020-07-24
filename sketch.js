@@ -9,8 +9,8 @@ var bin1, bin2, bin3;
 var backgroundImg;
 
 function preload() {
-    backgroundImg = loadImage("sprites/bg.png");
-    dustbinIMG = loadImage("sprites/dustbingreen.png")
+    backgroundImg = loadImage("bg.png");
+    dustbinIMG = loadImage("dustbingreen.png")
 }
 
 function setup(){
